@@ -160,3 +160,4 @@ void validandologin(){
     }
 
 }
+//implentar se o login ja é existente na hora do cadastro
